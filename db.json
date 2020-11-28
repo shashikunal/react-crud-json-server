@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "emp_name": "shruthi",
+      "emp_email": "shruthi@gmail.com",
+      "emp_designation": "java developer",
+      "emp_location": "bangalore",
+      "emp_address": "2nd cross btm layout"
+    },
+    {
+      "emp_name": "kritika",
+      "emp_email": "kritika@gmail.com",
+      "emp_designation": "fullstack developer",
+      "emp_location": "mysore",
+      "emp_address": "Bangalore\nBull Temple Road, Bengaluru. Coffee Day building, opp. ICICI",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "emp_name": "Vishal",
+      "emp_email": "Vishal@yahoo.co.in",
+      "emp_designation": "reactjs developer",
+      "emp_location": "banaglore",
+      "emp_address": "Bangalore\nBull Temple Road, Bengaluru. Coffee Day building, opp. ICICI"
+    }
+  ]
+}
